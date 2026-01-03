@@ -1,16 +1,33 @@
-<h1>Hi, I'm Veronika! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Veronika! <br/><a href="https://github.com/joshmadakor1">self-taught penetration tester</a>, <a href="https://www.linkedin.com/in/joshmadakor/">and a work-in-progress programmer</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Linux Practice:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Linux through OverTheWire levels 1-10 </b>
+  - [Praciting Linux through OverTheWire levels 1-10](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b> Linux through OverTheWire levels 11-20 </b>
+  - [Praciting Linux through OverTheWire levels 11-20](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b> Linux through OverTheWire levels 21-33 </b>
+  - [Praciting Linux through OverTheWire levels 21-33](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>CTF Writeups:</h2>
+
+- <b>RootMe</b>
+  - [RootMe - TryHackMe CTF WriteUp](https://github.com)
+
+- <b>W1seGuy</b>
+  - [W1seGuy - TryHackMe CTF WriteUp](https://github.com)
+
+<h2>Python Tools:</h2>
+
+
+<h2>Bash Scripts:</h2>
+
 
 <h2> Certifications :</h2>
-- 
-- 
-- 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
